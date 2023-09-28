@@ -1,5 +1,9 @@
+urllib3==1.16
 lightgbm
 scikit-learn
 catboost
 xgboost
 tensorflow
+seaborn
+cliffs_delta
+scipy
